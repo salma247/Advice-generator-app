@@ -1,0 +1,109 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --Light-Cyan: hsl(193, 38%, 86%);
+  --Neon-Green: hsl(150, 100%, 66%);
+  --Grayish-Blue: hsl(217, 19%, 38%);
+  --Dark-Grayish-Blue: hsl(217, 19%, 24%);
+  --Dark-Blue: hsl(218, 23%, 16%);
+}
+
+body{
+    background-color: var(--Dark-Blue);
+    display: flex;
+    justify-content: center;
+    font-family: 'Manrope', sans-serif;
+}
+
+.card{
+    background-color: var(--Dark-Grayish-Blue);
+    width: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+    margin-top: 7rem;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    position: relative;
+}
+
+.card-id p{
+    color: var(--Neon-Green);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 5px;
+    font-size: 12px;
+}
+
+.card-text p{
+    color: var(--Light-Cyan);
+    font-size: 24px;
+    padding: 2rem 1rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.card-text p::before{
+    content: "“";
+}
+
+.card-text p::after{
+    content: "”";
+}
+
+.divider img{
+    margin-bottom: 2rem;
+    width: 100%;
+    height: auto;
+}
+
+
+.dice{
+    position: absolute;
+    bottom: -25px;
+    background-color: var(--Neon-Green);
+    padding: 18px;
+    display: flex;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.dice img{
+    width: 100%;
+}
+
+.dice:hover{
+    box-shadow: var(--Neon-Green) 0px 7px 29px 0px;
+    cursor: pointer;
+}
+
+@media (min-width:768px){
+    body{
+        align-items: center;
+        height: 70vh;
+    }
+    .card{
+        width: 40%;
+    }
+    .card-id p{
+        font-size: 16px;
+    }
+    
+    .card-text p{
+        font-size: 28px;
+    }
+}
