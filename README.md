@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salma247/Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://salma247.github.io/Advice-generator-app/)
+- Solution URL: [Github](https://github.com/salma247/Advice-generator-app)
+- Live Site URL: [Live site](https://salma247.github.io/Advice-generator-app/)
 
 ## My process
 
@@ -71,6 +71,6 @@ This is my first time dealing with APIs! 🎉
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/salma-ahmed-mohammed/)
+- LinkedIn - [Salma Ahmed](https://www.linkedin.com/in/salma-ahmed-mohammed/)
 - Frontend Mentor - [@salma247](https://www.frontendmentor.io/profile/salma247)
 
