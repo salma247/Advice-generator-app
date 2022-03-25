@@ -70,7 +70,6 @@ This is my first time dealing with APIs! 🎉
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Add your name here](https://www.linkedin.com/in/salma-ahmed-mohammed/)
+- Frontend Mentor - [@salma247](https://www.frontendmentor.io/profile/salma247)
 
