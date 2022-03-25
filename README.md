@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpeg)
+![](/images/screenshot.jpeg)
 
 ### Links
 
@@ -70,6 +70,6 @@ This is my first time dealing with APIs! 🎉
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/salma-ahmed-mohammed/)
+- LinkedIn - [Salma Ahmed](https://www.linkedin.com/in/salma-ahmed-mohammed/)
 - Frontend Mentor - [@salma247](https://www.frontendmentor.io/profile/salma247)
 
