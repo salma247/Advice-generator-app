@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salma247/Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://salma247.github.io/Advice-generator-app/)
+- Solution URL: [Github](https://github.com/salma247/Advice-generator-app)
+- Live Site URL: [Live site](https://salma247.github.io/Advice-generator-app/)
 
 ## My process
 
